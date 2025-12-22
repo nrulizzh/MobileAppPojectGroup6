@@ -7,7 +7,7 @@
 
 ## TITLE OF THE PROJECT 
 
-#### ACE
+#### ACE - Academic Performance Support System for Secondary School Students
 
 
 ## INTRODUCTION OF THE PROJECT

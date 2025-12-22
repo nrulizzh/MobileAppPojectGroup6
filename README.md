@@ -18,7 +18,7 @@ Academic performance is a major concern among Malaysian secondary school student
   ACE is proposed as a mobile academic performance support system that focuses on early identification of learning difficulties and structured intervention guidance. By allowing students to monitor their academic performance, highlight subjects that need attention, and engage in focused recovery activities such as quizzes, revision videos, tutor chat support, and guided focus sessions, ACE aims to promote more effective study habits and improve overall academic performance. The system is relevant in today’s educational context as it supports self-directed learning while remaining simple, accessible, and practical for secondary school students.
 
 ## OBJECTIVES OF THE PROJECT 
-The objectives of the ACE mobile application are as follows:
+#### The objectives of the ACE mobile application are as follows:
 1. To enable secondary school students to monitor their academic performance through systematic input and review of test and examination results.
 2. To help students identify subjects that require attention by comparing academic performance over time.
 3. To provide structured intervention guidance that directs students toward appropriate recovery actions for weak subjects.
@@ -27,7 +27,8 @@ The objectives of the ACE mobile application are as follows:
 
 ## TARGET USERS
 The primary target users of the ACE mobile application are Malaysian secondary school students from Form 1 to Form 5. These students typically face increasing academic demands and require structured support to manage multiple subjects effectively.
-Secondary target users include:
+
+#### Secondary target users include:
 - Students who require additional academic guidance outside school hours
 - Students preparing for examinations who need help identifying and prioritising weak subjects
 ACE is designed to be user-friendly and suitable for students with varying academic abilities, ensuring accessibility for both high-performing students who wish to maintain consistency and struggling students who need targeted academic support.

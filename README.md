@@ -248,6 +248,13 @@ The application uses intuitive interactions such as taps, selections, and swipe 
 <img width="4779" height="4587" alt="8" src="https://github.com/user-attachments/assets/8dbbdc5f-7dd9-48ae-a4bf-8ae8d2f93166" />
 
 ## REFERENCES
-1. Paresh Sagar (2023, July 26). Chat App UI/UX. Behance.
-https://www.behance.net/gallery/176216013/Chat-App-UIUX
-2. 
+1. Hattie, J. (2009). Visible learning: A synthesis of over 800 meta-analyses relating to achievement. Routledge.
+2. Ally, M. (2009). Mobile learning: Transforming the delivery of education and training. AU Press.
+3. Cirillo, F. (2006). The Pomodoro Technique.https://francescocirillo.com/pages/pomodoro-technique
+4. Paresh Sagar (2023, July 26). Chat App UI/UX. Behance.https://www.behance.net/gallery/176216013/Chat-App-UIUX
+5. Pinterest. (n.d.). Mobile app UI design inspiration [Image].https://pin.it/4I3EdI5Tp
+6. Pinterest. (n.d.). Educational app interface design [Image].https://pin.it/6kXvcUuqz
+7. Pinterest. (n.d.). Learning dashboard UI inspiration [Image].https://pin.it/59Jo8Gotk
+8. Pinterest. (n.d.). Gamified learning mobile interface [Image].https://pin.it/33dR8Ay8L
+9. Pinterest. (n.d.). Student performance tracking app UI [Image].https://pin.it/4T6n4OEqw
+

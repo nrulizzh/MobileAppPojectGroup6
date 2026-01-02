@@ -185,6 +185,36 @@ The application uses intuitive interactions such as taps, selections, and swipe 
 
 
 ## MOCKUP
+#### 1. Mainpage
+<img width="1920" height="1080" alt="Mainpage" src="https://github.com/user-attachments/assets/6c3ec5d1-61d0-4d25-a6ce-0c232a775b23" />
+
+#### 2. Login
+<img width="1920" height="1080" alt="Login" src="https://github.com/user-attachments/assets/e48dee59-a39c-40af-aa1a-e724337e2f1b" />
+
+#### 3. Account Setup
+<img width="1920" height="1080" alt="Account Setup" src="https://github.com/user-attachments/assets/8aa6ca90-dc22-4918-ab57-ee812c78377b" />
+
+#### 4. Academic Input
+<img width="1920" height="1080" alt="Academic Input" src="https://github.com/user-attachments/assets/8d7358b2-73b6-47ce-82b1-e0586e986ea1" />
+
+#### 5. Performance Management
+<img width="1920" height="1080" alt="Performance Management" src="https://github.com/user-attachments/assets/e650c6e8-d4c6-4f1d-888a-0c8eca18434d" />
+
+#### 6. Homepage & Profile Page
+<img width="1920" height="1080" alt="Homepage_Dashboard   Profile Student" src="https://github.com/user-attachments/assets/5d4d674f-d36b-4268-9466-a914c6c376a4" />
+
+#### 7. Recorded Revision
+<img width="1920" height="1080" alt="Recorded Revision Videos" src="https://github.com/user-attachments/assets/3e177508-8f80-4f98-81d7-af28c0365335" />
+
+#### 8. Quizzes
+<img width="1920" height="1080" alt="Gamified quizzes" src="https://github.com/user-attachments/assets/ba3e3551-9827-42ea-88a5-4b3491d7b9df" />
+<img width="1920" height="1080" alt="Gamified quizzes (2)" src="https://github.com/user-attachments/assets/f4f0aa73-0e85-4a71-82c3-9aec2f3458cc" />
+
+#### 9. Pomodoro
+<img width="1920" height="1080" alt="Pomodoro" src="https://github.com/user-attachments/assets/21d134c4-bc1d-4465-8727-a0b149d8cec4" />
+
+#### 10. Tutor Chat Support
+<img width="1920" height="1080" alt="Tutor chat support" src="https://github.com/user-attachments/assets/25241cc5-f5ab-4d3c-a4b4-db6e50723eaa" />
 
 ## ARCHITECTURE/TECHNICAL DESIGN
 

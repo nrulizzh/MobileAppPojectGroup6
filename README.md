@@ -250,13 +250,13 @@ The application uses intuitive interactions such as taps, selections, and swipe 
 ## REFERENCES
 1. Hattie, J. (2009). Visible learning: A synthesis of over 800 meta-analyses relating to achievement. Routledge.
 2. Ally, M. (2009). Mobile learning: Transforming the delivery of education and training. AU Press.
-3. Cirillo, F. (2006). The Pomodoro Technique.https://francescocirillo.com/pages/pomodoro-technique
-4. Paresh Sagar (2023, July 26). Chat App UI/UX. Behance.https://www.behance.net/gallery/176216013/Chat-App-UIUX
-5. Pinterest. (n.d.). Mobile app UI design inspiration [Image].https://pin.it/4I3EdI5Tp
-6. Pinterest. (n.d.). Educational app interface design [Image].https://pin.it/6kXvcUuqz
-7. Pinterest. (n.d.). Learning dashboard UI inspiration [Image].https://pin.it/59Jo8Gotk
-8. Pinterest. (n.d.). Gamified learning mobile interface [Image].https://pin.it/33dR8Ay8L
-9. Pinterest. (n.d.). Student performance tracking app UI [Image].https://pin.it/4T6n4OEqw
-10. Pinterest. (n.d.). Academic performance mobile app UI design [Image].https://pin.it/7tkzYs6gb
-11. Pinterest. (n.d.). Student learning dashboard interface inspiration [Image].https://pin.it/1qqiUgUxi
+3. Cirillo, F. (2006). The Pomodoro Technique. https://francescocirillo.com/pages/pomodoro-technique
+4. Paresh Sagar (2023, July 26). Chat App UI/UX. Behance. https://www.behance.net/gallery/176216013/Chat-App-UIUX
+5. Pinterest. (n.d.). Mobile app UI design inspiration [Image]. https://pin.it/4I3EdI5Tp
+6. Pinterest. (n.d.). Educational app interface design [Image]. https://pin.it/6kXvcUuqz
+7. Pinterest. (n.d.). Learning dashboard UI inspiration [Image]. https://pin.it/59Jo8Gotk
+8. Pinterest. (n.d.). Gamified learning mobile interface [Image]. https://pin.it/33dR8Ay8L
+9. Pinterest. (n.d.). Student performance tracking app UI [Image]. https://pin.it/4T6n4OEqw
+10. Pinterest. (n.d.). Academic performance mobile app UI design [Image]. https://pin.it/7tkzYs6gb
+11. Pinterest. (n.d.). Student learning dashboard interface inspiration [Image]. https://pin.it/1qqiUgUxi
 

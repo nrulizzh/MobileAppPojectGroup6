@@ -216,6 +216,8 @@ The application uses intuitive interactions such as taps, selections, and swipe 
 <img width="1920" height="1080" alt="Tutor chat support" src="https://github.com/user-attachments/assets/25241cc5-f5ab-4d3c-a4b4-db6e50723eaa" />
 
 ## ARCHITECTURE/TECHNICAL DESIGN
+<img width="853" height="1044" alt="image" src="https://github.com/user-attachments/assets/afef6360-331b-4534-8169-feb886f6eac3" />
+
 
 ## ERD DIAGRAM
 <img width="850" height="1100" alt="ERD ACE" src="https://github.com/user-attachments/assets/211f50e3-7d69-4f50-869f-c024c54a3b9f" />

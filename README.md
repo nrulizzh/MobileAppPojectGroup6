@@ -37,6 +37,7 @@ ACE is designed to be user-friendly and suitable for students with varying acade
 ## FEATURES AND FUNCTIONALITIES OF THE PROJECT
 #### Features and Functionalities 
 The ACE mobile application is designed with structured core modules that support academic monitoring, intervention, and focused learning. Each module is integrated through a simple and intuitive user interface to ensure ease of use for secondary school students.
+
 #### 1. Core Modules
 1. User Authentication Module
 This module allows students to register and log in securely using their email and password. It ensures that each student has a personalised account where their academic data is stored and retrieved safely.
@@ -125,8 +126,6 @@ This module encourages continuous practice while gamifying learning to increase 
 The guided focus session module helps students improve concentration and study discipline by providing structured study timers and focus guidance.
 ##### Key functionalities:
 - Focus timer (Pomodoro-style sessions)
-
-
 
 #### 2. User Interface (UI) Components and Interactions
 The ACE mobile application is designed with a simple, clean, and student-friendly user interface to ensure ease of use for secondary school students. The UI components are structured to minimise complexity while supporting efficient navigation and interaction.

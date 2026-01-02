@@ -43,6 +43,28 @@ ACE is designed to be user-friendly and suitable for students with varying acade
 ## ERD DIAGRAM
 
 ## SEQUENCE DIAGRAM 
+#### 1. Basic Access & Setup
+<img width="3142" height="2623" alt="1" src="https://github.com/user-attachments/assets/ace89206-2dfc-4a56-bfa0-8f5f4b55f43c" />
 
+#### 2. Academic Performance Input
+<img width="2719" height="2833" alt="2" src="https://github.com/user-attachments/assets/b6be7001-f546-4134-93a2-f9798ac57846" />
+
+#### 3. Performance Monitoring & Intervention Management
+<img width="3999" height="6192" alt="3" src="https://github.com/user-attachments/assets/b9ec78c6-5735-40b6-b311-493fcc4fbc35" />
+
+#### 4. Recorded Revision Videos
+<img width="3158" height="3098" alt="4" src="https://github.com/user-attachments/assets/04bafebb-89d8-4369-93a8-6fc14bc87fe9" />
+
+#### 5. Focus Session (Pomodoro Timer)
+<img width="3191" height="3716" alt="5" src="https://github.com/user-attachments/assets/11056c05-74fb-4a23-ae68-6b863452a5a2" />
+
+#### 6. Tutor Chat Support
+<img width="3824" height="4295" alt="6" src="https://github.com/user-attachments/assets/5641e4a3-9bbe-4442-a945-f44c64d406eb" />
+
+#### 7. Downloadable Notes
+<img width="3942" height="3573" alt="7" src="https://github.com/user-attachments/assets/69c478f7-c8b6-450b-baf0-efbf103ffcf9" />
+
+#### 8. Gamified Quizzes
+<img width="4779" height="4587" alt="8" src="https://github.com/user-attachments/assets/8dbbdc5f-7dd9-48ae-a4bf-8ae8d2f93166" />
 
 ## REFERENCES

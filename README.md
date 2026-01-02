@@ -257,4 +257,6 @@ The application uses intuitive interactions such as taps, selections, and swipe 
 7. Pinterest. (n.d.). Learning dashboard UI inspiration [Image].https://pin.it/59Jo8Gotk
 8. Pinterest. (n.d.). Gamified learning mobile interface [Image].https://pin.it/33dR8Ay8L
 9. Pinterest. (n.d.). Student performance tracking app UI [Image].https://pin.it/4T6n4OEqw
+10. Pinterest. (n.d.). Academic performance mobile app UI design [Image].https://pin.it/7tkzYs6gb
+11. Pinterest. (n.d.). Student learning dashboard interface inspiration [Image].https://pin.it/1qqiUgUxi
 

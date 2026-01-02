@@ -35,16 +35,16 @@ ACE is designed to be user-friendly and suitable for students with varying acade
 
 
 ## FEATURES AND FUNCTIONALITIES OF THE PROJECT
-5) Features and Functionalities 
+#### Features and Functionalities 
 The ACE mobile application is designed with structured core modules that support academic monitoring, intervention, and focused learning. Each module is integrated through a simple and intuitive user interface to ensure ease of use for secondary school students.
-5.1 Core Modules
-1) User Authentication Module
+#### 1. Core Modules
+1. User Authentication Module
 This module allows students to register and log in securely using their email and password. It ensures that each student has a personalised account where their academic data is stored and retrieved safely.
 Key functionalities:
 - User registration and login
 - Secure session management
 - Personalised user dashboard access
-2) Account Setup Module
+2. Account Setup Module
 - This module allows students to set up their academic profile upon first registration.
 - Key functionalities include:
 - Selection of form level (Form 1 to Form 5)
@@ -56,7 +56,7 @@ Selection of subjects taken based on the selected form level
 Storage of student academic profile for personalised system usage
 
 
-3) Academic Performance Input Module
+3. Academic Performance Input Module
 This module enables students to record and manage their academic results.
 Key functionalities include:
 Input of test, quiz, and examination scores for each subject
@@ -68,7 +68,7 @@ Viewing a list of previously entered academic results
 Editing or updating academic scores when necessary
 
 
-4) Performance Monitoring and Intervention Management Module
+4. Performance Monitoring and Intervention Management Module
 This module analyses students’ academic performance and provides intervention guidance when required.
 Key functionalities include:
 Automatic comparison of the latest academic score with previous scores for each subject
@@ -86,7 +86,7 @@ Provision of guided intervention actions for subjects marked as Needs Attention
 Tracking of completion status for each assigned intervention action
 
 
-5) Homepage (Dashboard Module)
+5. Homepage (Dashboard Module)
 The homepage serves as the main navigation and overview screen for students.
 Key functionalities include:
 Display of student profile summary with navigation to the student profile page
@@ -98,7 +98,7 @@ Dashboard overview showing total subjects taken
 Academic performance summary highlighting overall status and alerts
 
 
-6) Student Profile Page
+6. Student Profile Page
 This module allows students to manage their personal information and application settings.
 Key functionalities include:
 Display of student information
@@ -116,7 +116,7 @@ Frequently Asked Questions (FAQ) section
 Logout functionality
 
 
-7) Recording Videos Module
+7. Recording Videos Module
 This module provides access to recorded revision videos to support learning.
 Key functionalities include:
 Subject categorisation (e.g., Mathematics, Science, All Subjects)
@@ -137,7 +137,7 @@ Partial progress display (e.g., 5/20 minutes watched)
 Completed status upon finishing the video
 
 
-8) Downloadable Notes Module
+8. Downloadable Notes Module
 This module allows students to access and download revision notes.
 Key functionalities include:
 Subject- and topic-based downloadable notes
@@ -149,7 +149,7 @@ Offline access to downloaded notes
 Organised note listing for easy reference
 
 
-9) Tutor Chat Support Module
+9. Tutor Chat Support Module
 This module enables students to communicate with tutors for academic assistance.
 Key functionalities include:
 One-to-one chat support between students and tutors
@@ -161,7 +161,7 @@ Subject-based tutor communication
 Message history tracking for reference
 
 
-10) Quiz Module
+10. Quiz Module
 This module provides quizzes for both normal practice and academic recovery purposes.
 Key functionalities include:
 Display of total points earned and student level
@@ -198,16 +198,16 @@ Begin quiz session
 
 
 This module encourages continuous practice while gamifying learning to increase student engagement.
-11) Guided Focus Session Module
+11. Guided Focus Session Module
 The guided focus session module helps students improve concentration and study discipline by providing structured study timers and focus guidance.
 Key functionalities:
 Focus timer (Pomodoro-style sessions)
 
 
 
-5.2 User Interface (UI) Components and Interactions
+#### 2. User Interface (UI) Components and Interactions
 The ACE mobile application is designed with a simple, clean, and student-friendly user interface to ensure ease of use for secondary school students. The UI components are structured to minimise complexity while supporting efficient navigation and interaction.
-a) Main Screens and UI Components
+1. Main Screens and UI Components
 Login and Account Setup Screen
 Input fields for email and password
 
@@ -299,7 +299,7 @@ Logout button
 
 
 Users manage their profile and application preferences through this screen.
-b) User Interaction Design
+2. User Interaction Design
 The application uses intuitive interactions such as taps, selections, and swipe gestures. Clear icons, readable text, and consistent button placement are applied throughout the application to enhance usability. Feedback messages and visual indicators are used to inform users of successful actions, progress updates, and required attention areas.
 
 

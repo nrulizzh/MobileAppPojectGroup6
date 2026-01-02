@@ -40,266 +40,147 @@ The ACE mobile application is designed with structured core modules that support
 #### 1. Core Modules
 1. User Authentication Module
 This module allows students to register and log in securely using their email and password. It ensures that each student has a personalised account where their academic data is stored and retrieved safely.
-Key functionalities:
+##### Key functionalities:
 - User registration and login
 - Secure session management
 - Personalised user dashboard access
+
 2. Account Setup Module
 - This module allows students to set up their academic profile upon first registration.
-- Key functionalities include:
+##### Key functionalities include:
 - Selection of form level (Form 1 to Form 5)
-
-
-Selection of subjects taken based on the selected form level
-
-
-Storage of student academic profile for personalised system usage
-
+- Selection of subjects taken based on the selected form level
+- Storage of student academic profile for personalised system usage
 
 3. Academic Performance Input Module
 This module enables students to record and manage their academic results.
-Key functionalities include:
-Input of test, quiz, and examination scores for each subject
-
-
-Viewing a list of previously entered academic results
-
-
-Editing or updating academic scores when necessary
-
+##### Key functionalities include:
+- Input of test, quiz, and examination scores for each subject
+- Viewing a list of previously entered academic results
+- Editing or updating academic scores when necessary
 
 4. Performance Monitoring and Intervention Management Module
 This module analyses students’ academic performance and provides intervention guidance when required.
-Key functionalities include:
-Automatic comparison of the latest academic score with previous scores for each subject
-
-
-Display of subject performance status
-
-
-Subject performance labels categorised as Stable or Needs Attention
-
-
-Provision of guided intervention actions for subjects marked as Needs Attention
-
-
-Tracking of completion status for each assigned intervention action
-
+##### Key functionalities include:
+- Automatic comparison of the latest academic score with previous scores for each subject
+- Display of subject performance status
+- Subject performance labels categorised as Stable or Needs Attention
+- Provision of guided intervention actions for subjects marked as Needs Attention
+- Tracking of completion status for each assigned intervention action
 
 5. Homepage (Dashboard Module)
 The homepage serves as the main navigation and overview screen for students.
-Key functionalities include:
-Display of student profile summary with navigation to the student profile page
-
-
-Dashboard overview showing total subjects taken
-
-
-Academic performance summary highlighting overall status and alerts
-
+##### Key functionalities include:
+- Display of student profile summary with navigation to the student profile page
+- Dashboard overview showing total subjects taken
+- Academic performance summary highlighting overall status and alerts
 
 6. Student Profile Page
 This module allows students to manage their personal information and application settings.
-Key functionalities include:
-Display of student information
-
-
-Access to application settings
-
-
-Privacy and policy information
-
-
-Frequently Asked Questions (FAQ) section
-
-
-Logout functionality
-
+##### Key functionalities include:
+- Display of student information
+- Access to application settings
+- Privacy and policy information
+- Frequently Asked Questions (FAQ) section
+- Logout functionality
 
 7. Recording Videos Module
 This module provides access to recorded revision videos to support learning.
-Key functionalities include:
-Subject categorisation (e.g., Mathematics, Science, All Subjects)
-
-
-Search functionality for subjects and topics
-
-
-Display of video progress status, such as:
-
-
-Not Started (video not yet viewed)
-
-
-Partial progress display (e.g., 5/20 minutes watched)
-
-
-Completed status upon finishing the video
-
+##### Key functionalities include:
+a) Subject categorisation (e.g., Mathematics, Science, All Subjects)
+b) Search functionality for subjects and topics
+c) Display of video progress status, such as:
+- Not Started (video not yet viewed)
+- Partial progress display (e.g., 5/20 minutes watched)
+- Completed status upon finishing the video
 
 8. Downloadable Notes Module
 This module allows students to access and download revision notes.
-Key functionalities include:
-Subject- and topic-based downloadable notes
-
-
-Offline access to downloaded notes
-
-
-Organised note listing for easy reference
-
+##### Key functionalities include:
+- Subject and topic-based downloadable notes
+- Offline access to downloaded notes
+- Organised note listing for easy reference
 
 9. Tutor Chat Support Module
 This module enables students to communicate with tutors for academic assistance.
-Key functionalities include:
-One-to-one chat support between students and tutors
-
-
-Subject-based tutor communication
-
-
-Message history tracking for reference
-
+##### Key functionalities include:
+- One-to-one chat support between students and tutors
+- Subject-based tutor communication
+- Message history tracking for reference
 
 10. Quiz Module
 This module provides quizzes for both normal practice and academic recovery purposes.
-Key functionalities include:
-Display of total points earned and student level
-
-
+##### Key functionalities include:
+a) Display of total points earned and student level
 250 points = Level 1
-
-
 500 points = Level 2
-
-
-Recovery Quiz section that highlights subjects requiring quizzes
-
-
-“Attempt Now” button for available recovery quizzes
-
-
-“No Recovery Quiz” message when none are required
-
-
+b) Recovery Quiz section that highlights subjects requiring quizzes
+- “Attempt Now” button for available recovery quizzes
+- “No Recovery Quiz” message when none are required
 To practice quiz for any other subject, students needs to:
-
-
-Click “Start Quiz”
-
-
-Select subject
-
-
-Select topic
-
-
-Begin quiz session
-
-
+Click “Start Quiz” --> Select subject --> Select topic --> Begin quiz session
 This module encourages continuous practice while gamifying learning to increase student engagement.
+
 11. Guided Focus Session Module
 The guided focus session module helps students improve concentration and study discipline by providing structured study timers and focus guidance.
-Key functionalities:
-Focus timer (Pomodoro-style sessions)
+##### Key functionalities:
+- Focus timer (Pomodoro-style sessions)
 
 
 
 #### 2. User Interface (UI) Components and Interactions
 The ACE mobile application is designed with a simple, clean, and student-friendly user interface to ensure ease of use for secondary school students. The UI components are structured to minimise complexity while supporting efficient navigation and interaction.
-1. Main Screens and UI Components
-Login and Account Setup Screen
-Input fields for email and password
 
-
-Multiple choice menus for selecting form level (Form 1–Form 5)
-
-
-Multi-select list for selecting subjects taken
-
-
-Action buttons such as Login, Sign Up, and Get Started
-
-
+#### 1. Main Screens and UI Components
+1. Login and Account Setup Screen
+2. Input fields for email and password
+3. Multiple choice menus for selecting form level (Form 1–Form 5)
+4. Multi-select list for selecting subjects taken
+5. Action buttons such as Login, Sign Up, and Get Started
 Users interact with this screen by entering their details and selecting their academic profile information.
-Homepage (Dashboard Screen)
-Profile icon that redirects users to the student profile page
 
-
-Dashboard cards displaying total subjects taken
-
-
-Performance summary section showing overall academic status
-
-
-Alert indicators for subjects marked as Needs Attention
-
-
+##### Homepage (Dashboard Screen)
+1. Profile icon that redirects users to the student profile page
+2. Dashboard cards displaying total subjects taken
+3. Performance summary section showing overall academic status
+4. Alert indicators for subjects marked as Needs Attention
 Users can tap on dashboard cards or alerts to navigate to detailed subject or intervention pages.
-Academic Performance Input Screen
-Dropdown menus for subject selection
 
-
-Input fields for entering test, quiz, and examination marks
-
-
-Submit and save scores buttons
-
-
-List view displaying previously entered academic results
-
-
+##### Academic Performance Input Screen
+1. Dropdown menus for subject selection
+2. Input fields for entering test, quiz, and examination marks
+3. Submit and save scores buttons
+4. List view displaying previously entered academic results
 Users input their academic scores and submit them to update their performance records.
-Performance Monitoring and Intervention Screen
-Subject performance cards labelled as Stable or Needs Attention
 
-
-Colour-coded indicators (e.g., green and red)
-
-
-Buttons linking to intervention actions such as quizzes, videos, and notes
-
-
-Progress indicators showing completion status of interventions
-
-
+##### Performance Monitoring and Intervention Screen
+1. Subject performance cards labelled as Stable or Needs Attention
+2. Colour-coded indicators (e.g., green and red)
+3. Buttons linking to intervention actions such as quizzes, videos, and notes
+4. Progress indicators showing completion status of interventions
 Users interact by selecting subjects and completing recommended recovery actions.
-Recording Videos and Downloadable Notes Screen
-Subject category tabs (Mathematics, Science, All Subjects)
 
-
-Search bar for topics and subjects
-
-
-Video cards showing duration and progress status
-
-
-Labels such as Not Started, Partial Progress, or Completed
-Notes available below every video
+##### Recording Videos and Downloadable Notes Screen
+1. Subject category tabs (Mathematics, Science, All Subjects)
+2. Search bar for topics and subjects
+3. Video cards showing duration and progress status
+4. Labels such as Not Started, Partial Progress, or Completed
+5. Notes available below every video
 Users tap on videos to start learning and track their viewing progress.
-Quiz Screen
-Buttons to start recovery or normal quizzes
 
-
-Subject and topic selection menus
-
-
-Score and level display (e.g., points and level achieved)
-
-
+##### Quiz Screen
+1. Buttons to start recovery or normal quizzes
+2. Subject and topic selection menus
+3. Score and level display (e.g., points and level achieved)
 Users select quiz types and interact through multiple-choice questions.
-Student Profile Screen
-Student information display
 
-
-Navigation options for settings, privacy & policy, and FAQ
-
-
-Logout button
-
-
+##### Student Profile Screen
+1. Student information display
+2. Navigation options for settings, privacy & policy, and FAQ
+3. Logout button
 Users manage their profile and application preferences through this screen.
-2. User Interaction Design
+
+#### 2. User Interaction Design
 The application uses intuitive interactions such as taps, selections, and swipe gestures. Clear icons, readable text, and consistent button placement are applied throughout the application to enhance usability. Feedback messages and visual indicators are used to inform users of successful actions, progress updates, and required attention areas.
 
 

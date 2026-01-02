@@ -243,7 +243,7 @@ The application uses intuitive interactions such as taps, selections, and swipe 
 #### 7. Downloadable Notes
 <img width="3942" height="3573" alt="7" src="https://github.com/user-attachments/assets/69c478f7-c8b6-450b-baf0-efbf103ffcf9" />
 
-#### 8. Gamified Quizzes
+#### 8. Quizzes
 <img width="4779" height="4587" alt="8" src="https://github.com/user-attachments/assets/8dbbdc5f-7dd9-48ae-a4bf-8ae8d2f93166" />
 
 ## REFERENCES

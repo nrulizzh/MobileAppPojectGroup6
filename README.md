@@ -248,4 +248,6 @@ The application uses intuitive interactions such as taps, selections, and swipe 
 <img width="4779" height="4587" alt="8" src="https://github.com/user-attachments/assets/8dbbdc5f-7dd9-48ae-a4bf-8ae8d2f93166" />
 
 ## REFERENCES
-1. Paresh Sagar (2023, July 26). Chat App UI/UX. Behance. https://www.behance.net/gallery/176216013/Chat-App-UIUX
+1. Paresh Sagar (2023, July 26). Chat App UI/UX. Behance.
+https://www.behance.net/gallery/176216013/Chat-App-UIUX
+2. 

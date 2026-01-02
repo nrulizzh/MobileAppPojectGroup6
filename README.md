@@ -308,6 +308,7 @@ The application uses intuitive interactions such as taps, selections, and swipe 
 ## ARCHITECTURE/TECHNICAL DESIGN
 
 ## ERD DIAGRAM
+<img width="850" height="1100" alt="ERD ACE" src="https://github.com/user-attachments/assets/211f50e3-7d69-4f50-869f-c024c54a3b9f" />
 
 ## SEQUENCE DIAGRAM 
 #### 1. Basic Access & Setup
